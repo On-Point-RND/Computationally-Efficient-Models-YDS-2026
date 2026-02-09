@@ -8,7 +8,7 @@ This course focuses on computational efficiency in modern machine learning, part
 **Projects and Assignments**
 
 1. **Team Project (10 points)** – Teams of up to 3 students  
-   - Example projects from this year: https://github.com/On-Point-RND/Efficient-Models-course-ITMO-2025?tab=readme-ov-file#projects-from-the-2025-itmo-course-by-category  
+   - Example projects from  2025 : https://github.com/On-Point-RND/Efficient-Models-course-ITMO-2025?tab=readme-ov-file#projects-from-the-2025-itmo-course-by-category  
 
    - **Midterm Deliverable (due by April 1):**  
      (1) Team formed  
