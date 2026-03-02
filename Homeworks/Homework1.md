@@ -1,8 +1,5 @@
 # Homework 1 — Triton Warm‑ups (Oct 04 → Oct 25)
 
-> **Timeline:** three weeks — **Oct 04** to **Oct 25** (inclusive).  
-> **Goal:** write Triton kernels that match the reference PyTorch implementations (within floating‑point tolerance) and pass the provided tests.
-
 ---
 
 ## Contents
